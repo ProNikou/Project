@@ -86,13 +86,7 @@ public class Display extends JFrame{
         this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
 	}
 	
-	class listener implements ActionListener
-	 {
-		 public void actionPerformed(ActionEvent e)
-		 	{
-			 	//TODO 			 	
-			}
-	 }
+	
 	
 	
 
